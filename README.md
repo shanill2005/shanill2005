@@ -31,7 +31,7 @@
 
 ### 🔹 Portfolio
 - **Description:** mini portfolio  
-- **Repository:** [View Project](https://github.com/shanill2005/Midterm_portfolio)
+- **Repository:** [View Project](https://github.com/shanill2005/Midterm-portfolio)
 
 ---
 
