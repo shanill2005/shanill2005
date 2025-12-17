@@ -30,15 +30,15 @@
 ## 📂 Projects
 
 ### 🔹 Portfolio
-- **Description:** Short explanation of the project  
-- **Repository:** [View Project](https://github.com/shanill2005/project-name)
+- **Description:** mini portfolio  
+- **Repository:** [View Project](https://github.com/shanill2005/Midterm_portfolio)
 
 ---
 
 ## 📫 Contact & Links
 
-- 📧 Email: yourname@email.com 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: ljonathrineshanill@gmail.com 
+- 🌐 Facebook: https://www.facebook.com/share/1C6T7DrnME/
 
 ---
 
